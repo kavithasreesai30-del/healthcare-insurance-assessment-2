@@ -1,7 +1,7 @@
 ![Code Institute Logo](https://codeinstitute.net/globalassets/images/logo.png)
 
 
-# Healthcare Insurance Cost Analysis
+# Healthcare Insurance Data Analysis — Advanced Analytics and Machine Learning
 
 ## Introduction
 
@@ -13,3 +13,10 @@ The original Unit Assessment 1 project is available here: [Healthcare Insurance 
 
 For Unit Assessment 2, the project compares Linear Regression and Random Forest Regression models to predict insurance charges. The findings are communicated through data visualisations and an interactive Tableau dashboard.
 
+## Acknowledgement of Previous Work
+
+This project builds on the completed Unit 1 Assessment (Capstone Project), which explored healthcare insurance costs using the same dataset.
+
+Relevant project files, data preparation and previous analysis were carried forward from Unit 1 as the starting point for further development. The Unit 2 Assessment extends this work through additional statistical analysis, visualisations and machine learning.
+
+The original Unit 1 Assessment repository is available here: [Healthcare Insurance Cost Analysis – Assessment 1](https://github.com/kavithasreesai30-del/healthcare-insurance-capstone).
