@@ -91,5 +91,23 @@ Python and pandas are used for data inspection, cleaning and preparation. Statis
 
 Tableau is used to present the findings in an interactive dashboard. This combination of methods supports both detailed analysis and accessible communication of the results.
 
+## Rationale for Data Visualisations
+
+The visualisations were selected to help investigate the project hypotheses and communicate patterns in healthcare insurance charges.
+
+| Visualisation | Purpose |
+|---|---|
+| Average Charges by Smoking Status | Compare average insurance charges for smokers and non-smokers. |
+| Charges Distribution by Smoking Status (Box Plot) | Examine the distribution of charges and identify differences between smokers and non-smokers. |
+| Average Charges by Region | Compare average insurance charges across geographical regions. |
+| Average Charges by Region and Smoking Status (Highlight Table) | Explore differences in average charges by region and smoking status. |
+| BMI vs Insurance Charges (Scatter Plot) | Investigate the relationship between BMI and insurance charges. |
+| Age vs Insurance Charges (Scatter Plot) | Investigate the relationship between age and insurance charges. |
+
+These visualisations were chosen because they support comparisons between groups, show the distribution of charges and help explore relationships between numerical variables. Together, they provide evidence to help answer the project questions and communicate findings to different audiences.
+
+The interactive Tableau dashboard includes filters for region, smoking status and sex, allowing users to explore selected groups within the dataset.
+
+
 
 
