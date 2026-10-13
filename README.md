@@ -249,3 +249,32 @@ The following tools and libraries were used to develop this project:
 | Tableau Public | Used to create and publish the interactive dashboard. |
 | Git and GitHub | Used for version control, project documentation and repository management. |
 | Visual Studio Code | Used as the development environment for the project. |
+
+## Credits and Acknowledgements
+
+### Dataset
+
+The healthcare insurance dataset was obtained from Kaggle:
+
+- [Medical Cost Personal Datasets – Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+
+### Previous Assessment Work
+
+This project builds on my completed Unit Assessment 1 healthcare insurance analysis. Relevant files, data preparation and previous analysis were carried forward as the starting point for Unit Assessment 2.
+
+The original repository is available here:
+
+- [Healthcare Insurance Cost Analysis – Assessment 1](https://github.com/kavithasreesai30-del/healthcare-insurance-capstone)
+
+### Learning Resources and Documentation
+
+The project was developed as part of the Code Institute Data Analytics and AI Bootcamp. Course materials, assessment guidance and official software documentation supported my learning and development.
+
+Official documentation consulted includes resources for Python, pandas, Matplotlib, Plotly and scikit-learn. These resources help explain the tools and methods used in the project.
+
+### Artificial Intelligence Assistance
+
+I used ChatGPT and Claude as AI-assisted learning and development tools during this project. They supported my understanding of programming concepts, troubleshooting, code improvement, data analysis methods and project documentation.
+
+AI-generated suggestions were used as assistance rather than a replacement for my own work. I reviewed and adapted suggestions to suit the project, and I remain responsible for the code, analysis, interpretation and final submitted work.
+
