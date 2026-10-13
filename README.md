@@ -53,6 +53,19 @@ The main business requirements are:
 - Develop and evaluate machine learning models to predict insurance charges using the available individual characteristics.
 - Present key findings through clear data visualisations and an interactive Tableau dashboard.
 
+## Hypotheses and Validation
 
+The following hypotheses guide the investigation of healthcare insurance charges. They are explored using statistical analysis, data visualisations and machine learning.
+
+| Hypothesis | Validation Method |
+|---|---|
+| Smokers have higher average insurance charges than non-smokers. | Compare average charges by smoking status and examine the distribution of charges using a box plot. |
+| Insurance charges tend to increase with age. | Use a scatter plot to explore the relationship between age and insurance charges. |
+| BMI is associated with insurance charges. | Use a scatter plot to investigate the relationship between BMI and insurance charges. |
+| Average insurance charges vary across geographical regions. | Compare average charges by region using data visualisation. |
+| The relationship between smoking status and insurance charges varies across regions. | Compare average charges by region and smoking status using a highlight table. |
+| Machine learning can be used to predict insurance charges from individual characteristics. | Train and evaluate Linear Regression and Random Forest Regression models using MAE, RMSE and R². |
+
+These hypotheses are investigated using the available dataset. The results identify associations and predictive patterns; they do not establish that a particular characteristic directly causes higher insurance charges.
 
 
