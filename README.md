@@ -108,6 +108,29 @@ These visualisations were chosen because they support comparisons between groups
 
 The interactive Tableau dashboard includes filters for region, smoking status and sex, allowing users to explore selected groups within the dataset.
 
+## Analysis Techniques and Limitations
+
+### Analysis Techniques
+
+The project uses a combination of data analysis, statistical methods, data visualisation and machine learning.
+
+- **Data cleaning:** pandas is used to inspect the dataset, check for missing values and duplicate records, and prepare the data for analysis.
+- **Exploratory data analysis:** descriptive statistics are used to summarise the dataset and understand the characteristics of the individuals and their insurance charges.
+- **Statistical analysis:** group comparisons and correlation analysis are used to investigate patterns and relationships between insurance charges and individual characteristics.
+- **Data visualisation:** Matplotlib and Plotly are used to explore and communicate patterns in the data through charts.
+- **Machine learning:** Linear Regression and Random Forest Regression are trained to predict insurance charges. Their performance is compared using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE) and R².
+- **Interactive dashboard:** Tableau is used to present the findings through interactive visualisations and filters.
+
+### Limitations and Alternative Approaches
+
+The dataset contains a limited set of personal characteristics and insurance charges. Other factors that may influence insurance costs are not included, so the findings cannot explain every difference in charges.
+
+The dataset is observational. Relationships identified through statistical analysis and visualisation do not establish that one characteristic directly causes changes in insurance charges.
+
+Linear Regression provides a straightforward baseline model but may not capture complex, non-linear relationships. Random Forest Regression can model more complex patterns, although its predictions are less straightforward to interpret. Comparing both models helps assess their relative predictive performance.
+
+Alternative approaches could include testing additional models, using further relevant data, and applying additional model interpretation techniques. These could be explored as future improvements if time and resources allow.
+
 
 
 
