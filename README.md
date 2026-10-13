@@ -68,4 +68,28 @@ The following hypotheses guide the investigation of healthcare insurance charges
 
 These hypotheses are investigated using the available dataset. The results identify associations and predictive patterns; they do not establish that a particular characteristic directly causes higher insurance charges.
 
+## Project Plan
+
+The project follows a structured data analysis workflow, building on the work completed in Unit Assessment 1.
+
+### Project Stages
+
+1. **Project setup:** Organise the repository, establish the project structure and prepare the Python environment.
+2. **Data collection:** Use the Medical Cost Personal Datasets from Kaggle and retain the original dataset.
+3. **Data cleaning and preparation:** Inspect data types, check for missing values and duplicate records, remove the duplicate record, and prepare a cleaned dataset for analysis.
+4. **Exploratory data analysis:** Use descriptive statistics and visualisations to understand the dataset and investigate patterns in insurance charges.
+5. **Statistical analysis:** Examine relationships between insurance charges and individual characteristics, including age, BMI, smoking status and geographical region.
+6. **Machine learning:** Train and evaluate Linear Regression and Random Forest Regression models to predict insurance charges.
+7. **Dashboard development:** Create an interactive Tableau dashboard to communicate the main findings.
+8. **Evaluation and documentation:** Interpret the results, assess the limitations of the analysis and document the project in the notebook and README.
+
+### Data Management and Methodology
+
+The original CSV file is retained as the raw dataset. A cleaned version is prepared for analysis to preserve the original data and make the cleaning process transparent.
+
+Python and pandas are used for data inspection, cleaning and preparation. Statistical analysis and visualisations are used to investigate patterns and relationships. Linear Regression and Random Forest Regression are compared using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE) and the coefficient of determination (R²).
+
+Tableau is used to present the findings in an interactive dashboard. This combination of methods supports both detailed analysis and accessible communication of the results.
+
+
 
