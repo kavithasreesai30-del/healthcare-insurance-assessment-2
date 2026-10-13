@@ -212,3 +212,24 @@ The project combines exploratory data analysis, statistical investigation, visua
 The Tableau dashboard communicates the findings interactively, while the regression models provide an additional way to investigate how individual characteristics can help predict insurance costs.
 
 The results are limited by the variables available in the dataset and the performance of the models on the selected test data. The predictions should therefore be interpreted as estimates rather than exact insurance costs.
+
+## Development Roadmap
+
+### Challenges and Learning
+
+During this project, I developed my skills in data cleaning, exploratory data analysis, statistical investigation, data visualisation and machine learning. I also gained experience in using Git and GitHub to manage project files and track development.
+
+Comparing Linear Regression and Random Forest Regression helped me understand how different regression algorithms can perform when predicting insurance charges. Creating an interactive Tableau dashboard also helped me develop my skills in presenting analytical findings to different audiences.
+
+### Future Improvements
+
+Possible future improvements include:
+
+- **Additional data:** Include more relevant variables that may help explain differences in insurance charges.
+- **Model improvement:** Explore hyperparameter tuning and cross-validation to assess whether model performance can be improved.
+- **Model interpretation:** Investigate additional techniques to understand which features contribute most to the models' predictions.
+- **Dashboard development:** Refine the Tableau dashboard and its interactive features based on user feedback.
+- **Further analysis:** Investigate additional statistical methods to explore relationships within the dataset.
+
+These improvements could extend the analysis and support further development of my data analytics and machine learning skills.
+
