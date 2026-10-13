@@ -39,4 +39,20 @@ The original dataset contains 1,338 records and seven columns:
 
 The dataset supports the investigation of relationships between personal characteristics, smoking status, geographical region and medical insurance charges.
 
+## Business Requirements
+
+The project aims to investigate the factors associated with healthcare insurance charges and use data analysis to support a better understanding of variations in insurance costs.
+
+The main business requirements are:
+
+- Investigate how smoking status relates to average healthcare insurance charges.
+- Examine the relationship between age and insurance charges.
+- Investigate the relationship between Body Mass Index (BMI) and insurance charges.
+- Compare average insurance charges across geographical regions.
+- Explore whether the relationship between smoking status and insurance charges varies across regions.
+- Develop and evaluate machine learning models to predict insurance charges using the available individual characteristics.
+- Present key findings through clear data visualisations and an interactive Tableau dashboard.
+
+
+
 
