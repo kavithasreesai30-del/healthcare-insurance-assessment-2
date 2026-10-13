@@ -172,3 +172,43 @@ The interactive features encourage users to investigate the data independently r
 The dashboard combines comparisons between groups, a box plot showing the distribution of charges, and scatter plots showing relationships between numerical variables. Each visualisation serves a specific purpose and contributes to a broader understanding of the factors associated with insurance costs.
 
 By presenting the analysis through an interactive dashboard, I aim to make the findings easier to understand and explore. However, the patterns shown in the dashboard represent associations within the available dataset and do not establish that individual characteristics directly cause differences in insurance charges.
+
+## Results and Evaluation
+
+### Key Findings
+
+The analysis identified differences in healthcare insurance charges across smoking status, age, BMI and geographical region.
+
+The main findings include:
+
+- **Smoking status:** Smokers had substantially higher average insurance charges than non-smokers in the dataset.
+- **Age:** The visualisations helped explore how insurance charges vary with age.
+- **BMI:** The analysis investigated the relationship between BMI and insurance charges.
+- **Geographical region:** Comparing average charges across regions helped identify differences between regional groups.
+- **Combined factors:** The highlight table allowed comparisons of average charges across geographical regions and smoking status.
+
+These findings describe patterns in the available dataset and should not be interpreted as proof of cause and effect.
+
+### Machine Learning Model Evaluation
+
+I trained and evaluated two regression models to predict healthcare insurance charges: Linear Regression and Random Forest Regression.
+
+The models were evaluated using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE) and R².
+
+| Evaluation Metric | Linear Regression | Random Forest Regression |
+|---|---:|---:|
+| MAE | 4,334.48 | 2,639.83 |
+| RMSE | 6,023.86 | 4,673.26 |
+| R² | 0.8025 | 0.8812 |
+
+Lower MAE and RMSE values indicate smaller prediction errors, while a higher R² indicates that the model explains a greater proportion of the variation in the target variable.
+
+Random Forest Regression performed better than Linear Regression across all three evaluation metrics. It produced lower prediction errors and a higher R² score on the test data.
+
+### Overall Evaluation
+
+The project combines exploratory data analysis, statistical investigation, visualisations and machine learning to examine healthcare insurance charges.
+
+The Tableau dashboard communicates the findings interactively, while the regression models provide an additional way to investigate how individual characteristics can help predict insurance costs.
+
+The results are limited by the variables available in the dataset and the performance of the models on the selected test data. The predictions should therefore be interpreted as estimates rather than exact insurance costs.
