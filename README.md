@@ -233,3 +233,19 @@ Possible future improvements include:
 
 These improvements could extend the analysis and support further development of my data analytics and machine learning skills.
 
+## Main Data Analysis Libraries and Tools
+
+The following tools and libraries were used to develop this project:
+
+| Tool or Library | Purpose |
+|---|---|
+| Python | Main programming language used for data analysis and machine learning. |
+| pandas | Used for data loading, cleaning, preparation and analysis. |
+| NumPy | Used for numerical operations. |
+| Matplotlib | Used to create data visualisations. |
+| Plotly | Used to create interactive visualisations. |
+| scikit-learn | Used to prepare data, train regression models and evaluate their performance. |
+| Jupyter Notebook | Used to organise and document the analysis, code and findings. |
+| Tableau Public | Used to create and publish the interactive dashboard. |
+| Git and GitHub | Used for version control, project documentation and repository management. |
+| Visual Studio Code | Used as the development environment for the project. |
