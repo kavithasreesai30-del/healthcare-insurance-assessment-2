@@ -131,6 +131,12 @@ Linear Regression provides a straightforward baseline model but may not capture 
 
 Alternative approaches could include testing additional models, using further relevant data, and applying additional model interpretation techniques. These could be explored as future improvements if time and resources allow.
 
+## Ethical Considerations
 
+This project uses a publicly available healthcare insurance dataset for educational purposes. The analysis focuses on patterns in insurance charges and does not attempt to identify individuals.
+
+The results show associations and predictive patterns, not proof that personal characteristics directly cause higher insurance charges. Factors such as age, sex, BMI and smoking status should be interpreted carefully to avoid unfair assumptions about individuals.
+
+The machine learning models are intended for educational analysis and should not be used as the sole basis for real-world insurance decisions.
 
 
