@@ -139,4 +139,36 @@ The results show associations and predictive patterns, not proof that personal c
 
 The machine learning models are intended for educational analysis and should not be used as the sole basis for real-world insurance decisions.
 
+## Dashboard Design
 
+In my project, I have used Tableau Public to create an interactive dashboard that presents the key findings from my healthcare insurance data analysis. The dashboard brings together six visualisations to help users explore the factors associated with medical insurance charges.
+
+My aim was to present the findings in a clear and accessible way so that both technical and non-technical audiences can understand the results and explore patterns within the dataset.
+
+### Dashboard Visualisations
+
+I selected six visualisations to investigate different aspects of healthcare insurance charges:
+
+- **Average Charges by Smoking Status:** This visualisation compares the average insurance charges of smokers and non-smokers, helping users explore the relationship between smoking status and insurance costs.
+
+- **Charges Distribution by Smoking Status:** This box plot compares the distribution of charges for smokers and non-smokers, showing differences in the spread of charges and highlighting potential outliers.
+
+- **Average Charges by Region:** This visualisation compares average insurance charges across the four geographical regions to identify differences between regional groups.
+
+- **Average Charges by Region and Smoking Status:** This highlight table combines geographical region and smoking status to help users compare average charges across different groups.
+
+- **BMI vs Insurance Charges:** This scatter plot explores the relationship between Body Mass Index (BMI) and insurance charges, helping users identify possible patterns in the data.
+
+- **Age vs Insurance Charges:** This scatter plot explores the relationship between age and insurance charges, allowing users to examine how charges vary across different ages.
+
+### Interactive Features
+
+I have included interactive filters for region, smoking status and sex. These filters allow users to select particular groups and explore how the visualisations change according to their selections.
+
+The interactive features encourage users to investigate the data independently rather than relying only on the initial charts. They also make it easier to compare groups and explore patterns relevant to the project questions.
+
+### Communicating the Findings
+
+The dashboard combines comparisons between groups, a box plot showing the distribution of charges, and scatter plots showing relationships between numerical variables. Each visualisation serves a specific purpose and contributes to a broader understanding of the factors associated with insurance costs.
+
+By presenting the analysis through an interactive dashboard, I aim to make the findings easier to understand and explore. However, the patterns shown in the dashboard represent associations within the available dataset and do not establish that individual characteristics directly cause differences in insurance charges.
