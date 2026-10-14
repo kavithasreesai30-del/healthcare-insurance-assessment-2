@@ -2,9 +2,6 @@
 
 # Healthcare Insurance Data Analysis — Advanced Analytics and Machine Learning
 
-
-# Healthcare Insurance Data Analysis — Advanced Analytics and Machine Learning
-
 ## Introduction
 
 This project explores healthcare insurance costs using data analysis, statistical methods, data visualisation, and machine learning. The aim is to investigate how factors such as age, sex, body mass index (BMI), number of children, smoking status, and geographical region relate to insurance charges.
@@ -41,7 +38,7 @@ Healthcare_Insurance_Assessment2/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 
 ## Dataset Content
 
