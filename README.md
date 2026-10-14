@@ -9,8 +9,6 @@ This project explores healthcare insurance costs using data analysis, statistica
 
 This project builds on the work completed in Unit 1 Assessment and extends the analysis through additional statistical investigation, machine learning model development and evaluation, and an interactive Tableau dashboard.
 
-The original Unit Assessment 1 project is available here: [Healthcare Insurance Cost Analysis – Assessment 1](https://github.com/kavithasreesai30-del/healthcare-insurance-capstone).
-
 For Unit 2 Assessment, the project extends the original data analysis through further statistical investigation, data visualisation and machine learning. The data analysis findings are presented through visualisations and an interactive Tableau Public dashboard. Separately, Linear Regression and Random Forest Regression models are developed and evaluated to predict healthcare insurance charges.
 
 ## Acknowledgement of Previous Work
