@@ -29,11 +29,11 @@ Healthcare_Insurance_Assessment2/
 │   ├── insurance.csv
 │   └── insurance_cleaned.csv
 ├── notebooks/
-│   ├── healthcare_insurance_analysis.ipynb
-│   └── age_insurance_smoking_plot.html
+│   └── healthcare_insurance_analysis.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+...
 ```
 
 ## Dataset Content
@@ -162,13 +162,13 @@ The machine learning models are intended for educational analysis and should not
 
 ## Dashboard Design
 
-In my project, I have used Tableau Public to create an interactive dashboard that presents the key findings from my healthcare insurance data analysis. The dashboard brings together six visualisations to help users explore the factors associated with medical insurance charges.
+Tableau Public was used to create an interactive dashboard presenting the key findings from the healthcare insurance data analysis. The dashboard brings together six visualisations to help users explore factors associated with medical insurance charges.
 
-My aim was to present the findings in a clear and accessible way so that both technical and non-technical audiences can understand the results and explore patterns within the dataset.
+The dashboard was designed to present the findings clearly and accessibly, helping both technical and non-technical audiences understand the results and explore patterns within the dataset.
 
 ### Dashboard Visualisations
 
-I selected six visualisations to investigate different aspects of healthcare insurance charges:
+Six visualisations were included to investigate different aspects of healthcare insurance charges:
 
 - **Average Charges by Smoking Status:** This visualisation compares the average insurance charges of smokers and non-smokers, helping users explore the relationship between smoking status and insurance costs.
 
@@ -184,7 +184,7 @@ I selected six visualisations to investigate different aspects of healthcare ins
 
 ### Interactive Features
 
-I have included interactive filters for region, smoking status and sex. These filters allow users to select particular groups and explore how the visualisations change according to their selections.
+The dashboard includes interactive filters for region, smoking status and sex. These filters allow users to select particular groups and explore how the visualisations change according to their selections.
 
 The interactive features encourage users to investigate the data independently rather than relying only on the initial charts. They also make it easier to compare groups and explore patterns relevant to the project questions.
 
@@ -192,7 +192,7 @@ The interactive features encourage users to investigate the data independently r
 
 The dashboard combines comparisons between groups, a box plot showing the distribution of charges, and scatter plots showing relationships between numerical variables. Each visualisation serves a specific purpose and contributes to a broader understanding of the factors associated with insurance costs.
 
-By presenting the analysis through an interactive dashboard, I aim to make the findings easier to understand and explore. However, the patterns shown in the dashboard represent associations within the available dataset and do not establish that individual characteristics directly cause differences in insurance charges.
+The interactive dashboard makes the findings easier to understand and explore. However, the patterns shown represent associations within the available dataset and do not establish that individual characteristics directly cause differences in insurance charges.
 
 ## Results and Evaluation
 
@@ -214,7 +214,7 @@ These findings describe patterns in the available dataset and should not be inte
 
 ### Machine Learning Model Evaluation
 
-I trained and evaluated two regression models to predict healthcare insurance charges: Linear Regression and Random Forest Regression.
+Two regression models were developed and evaluated to predict healthcare insurance charges: Linear Regression and Random Forest Regression.
 
 The models were evaluated using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE) and R².
 
@@ -240,7 +240,7 @@ The results are limited by the variables available in the dataset and the perfor
 
 ### Challenges and Learning
 
-During this project, I developed my skills in data cleaning, exploratory data analysis, statistical investigation, data visualisation and machine learning. I also gained experience in using Git and GitHub to manage project files and track development.
+During this project, skills were developed in data cleaning, exploratory data analysis, statistical investigation, data visualisation and machine learning. Experience was also gained in using Git and GitHub to manage project files and track development.
 
 Comparing Linear Regression and Random Forest Regression helped me understand how different regression algorithms can perform when predicting insurance charges. Creating an interactive Tableau dashboard also helped me develop my skills in presenting analytical findings to different audiences.
 
@@ -297,7 +297,7 @@ Official documentation consulted includes resources for Python, pandas, Matplotl
 
 ### Artificial Intelligence Assistance
 
-I used ChatGPT and Claude as AI-assisted learning and development tools during this project. They supported my understanding of programming concepts, troubleshooting, code improvement, data analysis methods and project documentation.
+ChatGPT and Claude were used as AI-assisted learning and development tools to support understanding of programming concepts, troubleshooting, code improvement, data analysis methods and project documentation.
 
 AI-generated suggestions were used as assistance rather than a replacement for my own work. I reviewed and adapted suggestions to suit the project, and I remain responsible for the code, analysis, interpretation and final submitted work.
 
