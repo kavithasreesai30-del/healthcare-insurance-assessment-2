@@ -113,6 +113,12 @@ Python and pandas are used for data inspection, cleaning and preparation. Statis
 
 Tableau is used to present the findings in an interactive dashboard. This combination of methods supports both detailed analysis and accessible communication of the results.
 
+## Project Management
+
+GitHub Projects was used to organise project tasks, track progress and manage development activities throughout the Unit 2 Assessment.
+
+[View the Healthcare Insurance Assessment 2 – Project Board](https://github.com/users/kavithasreesai30-del/projects/3)
+
 ## Rationale for Data Visualisations
 
 The visualisations were selected to help investigate the project hypotheses and communicate patterns in healthcare insurance charges.
