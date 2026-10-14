@@ -20,21 +20,17 @@ The original Unit 1 Assessment repository is available here: [Healthcare Insuran
 
 ## Project Structure
 
-The project is organised into folders to separate the source data, analysis notebook and project documentation.
+The project is organised into folders to separate the source data, analysis notebook, project documentation and outputs.
 
 ```text
 Healthcare_Insurance_Assessment2/
-│
 ├── .github/
-│
 ├── data/
 │   ├── insurance.csv
 │   └── insurance_cleaned.csv
-│
 ├── notebooks/
 │   ├── healthcare_insurance_analysis.ipynb
 │   └── age_insurance_smoking_plot.html
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -213,6 +209,8 @@ The main findings include:
 - **Combined factors:** The highlight table allowed comparisons of average charges across geographical regions and smoking status.
 
 These findings describe patterns in the available dataset and should not be interpreted as proof of cause and effect.
+
+**View the interactive dashboard:** [Healthcare Insurance Analysis | Tableau Public](https://public.tableau.com/app/profile/kav.kavz/viz/HealthcareInsuranceAnalysis_17918430942580/HealthcareInsuranceDashboard?publish=yes)
 
 ### Machine Learning Model Evaluation
 
