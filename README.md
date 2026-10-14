@@ -1,4 +1,6 @@
-![Code Institute Logo](https://codeinstitute.net/globalassets/images/logo.png)
+![Code Institute Logo](https://avatars.githubusercontent.com/u/16867170?s=200&v=4)
+
+# Healthcare Insurance Data Analysis — Advanced Analytics and Machine Learning
 
 
 # Healthcare Insurance Data Analysis — Advanced Analytics and Machine Learning
