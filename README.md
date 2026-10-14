@@ -21,6 +21,28 @@ Relevant project files, data preparation and previous analysis were carried forw
 
 The original Unit 1 Assessment repository is available here: [Healthcare Insurance Cost Analysis – Assessment 1](https://github.com/kavithasreesai30-del/healthcare-insurance-capstone).
 
+## Project Structure
+
+The project is organised into folders to separate the source data, analysis notebook and project documentation.
+
+```text
+Healthcare_Insurance_Assessment2/
+│
+├── .github/
+│
+├── data/
+│   ├── insurance.csv
+│   └── insurance_cleaned.csv
+│
+├── notebooks/
+│   ├── healthcare_insurance_analysis.ipynb
+│   └── age_insurance_smoking_plot.html
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+
 ## Dataset Content
 
 The project uses the [Medical Cost Personal Datasets from Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance), which contains information about individuals and their medical insurance charges. The dataset is provided in CSV format.
